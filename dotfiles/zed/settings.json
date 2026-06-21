@@ -1,0 +1,52 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run `zed: open default settings` from the
+// command palette (cmd-shift-p / ctrl-shift-p)
+{
+  "ui_font_size": 16,
+  "buffer_font_size": 16,
+  "buffer_font_family": "Fira Code",
+  "restore_on_startup": "last_session",
+  "current_line_highlight": "gutter",
+  "cursor_shape": "block",
+  "hide_mouse": "on_typing",
+  "theme": {
+    "mode": "system",
+    "light": "One Dark",
+    "dark": "One Dark"
+  },
+  "autosave": "on_focus_change",
+  "minimap": {
+    "show": "auto",
+    "thumb": "hover",
+    "thumb_border": "left_open",
+    "current_line_highlight": "line",
+    "tabs": {
+      "close_position": "left",
+      "file_icons": true,
+      "git_status": true,
+      "activate_on_close": "history",
+      "show_close_button": "hover",
+      "show_diagnostics": "off"
+    }
+  },
+  "toolbar": {
+    "breadcrumbs": true,
+    "quick_actions": true,
+    "selections_menu": true,
+    "agent_review": false,
+    "code_actions": false
+  },
+  "format_on_save": "on",
+  "icon_theme": {
+    "mode": "dark",
+    "dark": "JetBrains New UI Icons (Dark)",
+    "light": "JetBrains New UI Icons (Light)"
+  },
+  "hour_format": "hour24",
+  "show_whitespaces": "selection"
+}

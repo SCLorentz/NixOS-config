@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=felipe.lorentz@outlook.com.br
+Enabled=true
+Parent=149be32b0df06152df3b50387dda200ffbf1791a
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=a6e4c9d4e0d1a7d1badef199b08025286b1600b3
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=felipe.lorentz@outlook.com.br
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none

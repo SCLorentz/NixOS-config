@@ -1,0 +1,27 @@
+[Data Source]
+DisplayName=felipe.lorentz@outlook.com.br
+Enabled=true
+Parent=149be32b0df06152df3b50387dda200ffbf1791a
+
+[Authentication]
+Host=smtp-mail.outlook.com
+Method=XOAUTH2
+Port=587
+ProxyUid=system-proxy
+RememberPassword=true
+User=felipe.lorentz@outlook.com.br
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=starttls-on-standard-port
+
+[Mail Transport]
+BackendName=smtp
+
+[Smtp Backend]
+ReencodeData=false
+DsnRetFull=false
+DsnNotifySuccess=true
+DsnNotifyFailure=true
+DsnNotifyDelay=true

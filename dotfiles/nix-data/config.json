@@ -1,0 +1,6 @@
+{
+  "systemconfig": "/etc/nixos/configuration.nix",
+  "flake": null,
+  "flakearg": null,
+  "generations": null
+}

@@ -1,0 +1,22 @@
+.main-window {
+	background-color: #72afa8;
+  	/*background-color: rgba(0, 0, 0, 0.3); */
+}
+
+* {
+	color: black;
+}
+
+.time-widget {
+	margin: 8px 0;
+}
+
+.brightness-widget-slider {
+	background: black;
+}
+
+.hyprland-workspaces-widget-button {
+	background: #7298af;
+	padding: 3px 10px;
+	border-radius: 0 5px 5px 0;
+}

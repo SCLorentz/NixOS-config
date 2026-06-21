@@ -1,0 +1,9 @@
+user-dirs.dirs
+user-dirs.locale
+systemd
+*.xml
+kde.org
+baloofileinformationrc
+dotfiles
+xdg
+ags
